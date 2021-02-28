@@ -1,0 +1,11 @@
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\bin\Debug\TestingPlatform.exe.config
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\bin\Debug\TestingPlatform.exe
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\bin\Debug\TestingPlatform.pdb
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\bin\Debug\WebDriver.dll
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\bin\Debug\WebDriver.xml
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\obj\Debug\TestingPlatform.csproj.CoreCompileInputs.cache
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\obj\Debug\TestingPlatform.csproj.CopyComplete
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\obj\Debug\TestingPlatform.exe
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\obj\Debug\TestingPlatform.pdb
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\bin\Debug\nunit.framework.dll
+D:\SoftwareTesting\TestingPlatform\TestingPlatform\bin\Debug\nunit.framework.xml
